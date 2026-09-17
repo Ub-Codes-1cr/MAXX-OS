@@ -1,0 +1,13 @@
+# Ignore heavy local subfolders & binaries for Vercel
+my old build/
+MAXX OS/
+maxxx Final/
+maxxos/
+maxx/
+skills/
+maskyyy/
+node_modules/
+__pycache__/
+*.iss
+*.exe
+*.dmg
