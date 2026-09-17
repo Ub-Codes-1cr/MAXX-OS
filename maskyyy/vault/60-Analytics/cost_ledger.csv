@@ -1,0 +1,3 @@
+timestamp,platform,division,tokens_generated,local_compute_seconds,simulated_api_cost_saved_usd
+2026-09-18 03:00:00,x,Tech,350,1.2,0.015
+2026-09-18 03:05:00,linkedin,Mafia,1100,2.8,0.045
