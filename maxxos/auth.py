@@ -5,7 +5,7 @@ Auto-login for X, Instagram, Facebook, Threads, LinkedIn
 
 import time
 from playwright.sync_api import Page
-from credentials import credential_store
+from maxxos.credentials import credential_store
 
 
 class PlatformAuth:

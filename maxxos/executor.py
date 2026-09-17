@@ -13,7 +13,7 @@ from dataclasses import dataclass
 from functools import wraps
 
 from playwright.sync_api import sync_playwright, Browser, Page, BrowserContext
-from platform_auth import PlatformAuth
+from maxxos.auth import PlatformAuth
 
 
 def retry_on_failure(max_retries=3, delay=2):

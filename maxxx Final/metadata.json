@@ -1,0 +1,6 @@
+{
+  "name": "MAXXX OS Sovereign Command Center",
+  "description": "Notion Craft studio command center with local-first AI agent swarm, warm ergonomic UI, harmonic acoustic Maskyy Orb, and 8 creator workstations.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

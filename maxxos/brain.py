@@ -9,10 +9,8 @@ from typing import Optional
 from dataclasses import dataclass, field
 from enum import Enum
 
-from ollama_client import ollama
-from vault_reader import vault
-from draft_generator import draft_generator, DraftResult
-from golden_lint import validate_draft, list_platforms
+from maxxos.vault import VaultReader
+from maxxos.linter import validate_draft, list_platforms
 
 
 class TaskState(Enum):

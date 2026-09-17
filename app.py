@@ -13,7 +13,7 @@ from maxxos.analytics import analytics
 from maxxos.scheduler import scheduler
 from maxxos.memory import memory
 from maxxos.media import media_handler
-from maxxos.auth import auth_manager
+from maxxos.auth import PlatformAuth
 
 # --- PAGE CONFIG ---
 st.set_page_config(
