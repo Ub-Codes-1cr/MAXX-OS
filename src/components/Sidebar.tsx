@@ -112,7 +112,7 @@ export const Sidebar: React.FC<SidebarProps> = ({
   ];
 
   return (
-    <aside className="w-full md:w-64 bg-[var(--bg-surface)] border-r border-[var(--color-border)] flex flex-col justify-between select-none shrink-0 transition-colors duration-200">
+    <aside className="hidden md:flex flex-col w-64 bg-[var(--bg-surface)] border-r border-[var(--color-border)] justify-between select-none shrink-0 transition-colors duration-200">
       {/* Navigation List */}
       <div className="flex-1 p-3 overflow-y-auto space-y-4">
         {navSections.map((section, idx) => (
