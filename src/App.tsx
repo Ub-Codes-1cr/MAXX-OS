@@ -138,7 +138,7 @@ Every draft terminates at Gate://HITL-Staging for human inspection. Playwright e
         />
 
         {/* Center Stage Workspace */}
-        <main className="flex-1 flex flex-col overflow-hidden bg-[var(--bg-base)]">
+        <main className="flex-1 flex flex-col overflow-hidden bg-[var(--bg-base)] pb-16 sm:pb-14">
           {activeScreen === 'dashboard' && (
             <DashboardScreen
               onNavigate={setActiveScreen}

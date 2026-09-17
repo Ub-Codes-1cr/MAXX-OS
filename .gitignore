@@ -1,3 +1,8 @@
+# Node & npm
+node_modules/
+.vercel
+package-lock.json
+
 # Python
 __pycache__/
 *.py[cod]
