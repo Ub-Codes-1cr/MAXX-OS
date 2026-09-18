@@ -12,11 +12,11 @@
 
 ---
 
-### 📹 System Demonstration
+### 📹 System Demonstration & Interactive Showcase
 
-https://github.com/user-attachments/assets/demo.mp4
+<video src="assets/demo.mp4" controls="controls" muted="muted" autoplay="autoplay" loop="loop" style="max-width: 100%; width: 100%; border-radius: 12px;"></video>
 
-<video src="https://raw.githubusercontent.com/Ub-Codes-1cr/MAXX-OS/main/assets/demo.mp4" width="100%" controls autoplay loop muted></video>
+https://github.com/Ub-Codes-1cr/MAXX-OS/raw/main/assets/demo.mp4
 
 *Figure 1: MAXX OS v3.0 in action showcasing the multi-station HUD, 11-node agent swarm, real-time telemetry, and the new floating glassmorphic Pop-Up Dock Bar.*
 
