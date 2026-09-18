@@ -114,8 +114,8 @@ export const Header: React.FC<HeaderProps> = ({
         {/* Brand & Workspace Breadcrumb */}
         <div className="flex items-center gap-3">
           <div className="flex items-center gap-2.5 pr-3 border-r border-[var(--color-border)]">
-            <div className="w-7 h-7 rounded-lg bg-[var(--color-accent)]/15 border border-[var(--color-accent)]/30 flex items-center justify-center text-[var(--color-accent)] font-bold text-xs shadow-sm">
-              M
+            <div className="w-8 h-8 rounded-lg bg-[var(--bg-card)] border border-[var(--color-border)] p-0.5 flex items-center justify-center shadow-sm shrink-0">
+              <img src="/chameleon-logo.png" alt="Chameleon Logo" className="w-full h-full object-contain filter drop-shadow-md" />
             </div>
             <div>
               <div className="flex items-center gap-1.5">
@@ -212,8 +212,8 @@ export const Header: React.FC<HeaderProps> = ({
       <div className="flex md:hidden items-center justify-between w-full">
         {/* Left Mobile Brand */}
         <div className="flex items-center gap-2">
-          <div className="w-7 h-7 rounded-lg bg-[var(--color-accent)]/15 border border-[var(--color-accent)]/30 flex items-center justify-center text-[var(--color-accent)] font-bold text-xs">
-            M
+          <div className="w-7 h-7 rounded-lg bg-[var(--bg-card)] border border-[var(--color-border)] p-0.5 flex items-center justify-center shadow-sm shrink-0">
+            <img src="/chameleon-logo.png" alt="Chameleon Logo" className="w-full h-full object-contain filter drop-shadow-md" />
           </div>
           <div>
             <div className="flex items-center gap-1">
