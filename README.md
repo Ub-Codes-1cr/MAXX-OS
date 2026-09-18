@@ -8,6 +8,8 @@
 ![Frontend](https://img.shields.io/badge/Frontend-React%2019%20%7C%20Vite%20%7C%20Tailwind%20v4-blue.svg)
 ![Deployment](https://img.shields.io/badge/Deploy-Vercel%20%7C%20GitHub%20Pages-success.svg)
 
+> 🚀 **LIVE DEMO**: [https://demo-maxx.vercel.app](https://demo-maxx.vercel.app)
+
 > ⚠️ **DEMO NOTICE**: This repository contains **MAXX OS v1 Interactive Studio & Web Demo**. It showcases the complete sovereign multi-station HUD, interactive floating Dock Bar, local swarm node monitors, draft linters, and multimodal sensors in an interactive web application demo.
 
 > **Local-First. Anti-API. Anti-Cloud. 100% Creator Sovereignty.**  
